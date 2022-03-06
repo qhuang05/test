@@ -14,7 +14,7 @@ module.exports = defineConfig({
     'quotes': 0,
     'semi': 1,
     'no-console': 1,
-    'no-unused-vars': 0,
+    'no-unused-vars': 2,
     'space-before-function-paren': 0,
   },
 });
